@@ -1,1 +1,1 @@
-# project
+Animal classifier using RESNET50
